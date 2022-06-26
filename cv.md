@@ -25,7 +25,15 @@ describe("Multiply", () => {
 });
 
 ```
+## Project 
 
+## Education 
+1. Completed a course in layout
+2. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages
+English -  Intermediate
+Russian - native
 
 
 
