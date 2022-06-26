@@ -4,8 +4,9 @@
 * email: denissedel.v@gmail.com
 ## About me.
  My goal is to become a highly qualified specialist in the field of front-end development. I consider the goal to be a priority for myself and I put maximum efforts to achieve it.
+ 
+My strengths are high motivation and unshakable confidence that any obstacles will be overcome.
 
- My strengths are high motivation and unshakable confidence that any obstacles will be overcome.
 ## Skils.
 * HTML,CSS.
 * SCSS,SAAS.
