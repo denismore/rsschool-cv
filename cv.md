@@ -32,8 +32,8 @@ describe("Multiply", () => {
 2. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
-English -  Intermediate
-Russian - native
++ English -  Intermediate
++ Russian - native
 
 
 
