@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+font-family: 'Montserrat';
+    font-weight: 500;
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.menu_item {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    color: #fff;
+    font-size: 18px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+.header {
+    height: 60px;
+    background-color: #0082a1;
+}
+
+.left-block {
+    width: 30%;
+    background-color: #0082a1;
+}
+
+.right-block {
+    background-color: #0082a1;
+    width: 70%;
+}
+
+main {
+    display: flex;
+}
+
+.name {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    color: #fff;
+    font-size: 17px;
+    text-align: center; 
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.name h1 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+.photo { 
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+}
+
+.title_block {
+    height: 50px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.title_block h2 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 50px;
+    color: #0082a1;
+    text-transform: uppercase;   
+}
+
+.left-block-item {
+    margin-top: 0px;
+    background-color: #fff;
+    width: 100%;
+}
+.left-block-menu {
+    width: 100%;
+    padding: 10px;
+    list-style-type: none;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    color: #0082a1;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.left-block-menu li {
+    margin-bottom: 5px;
+
+}
+
+.right-block-wraper {
+    height: 100%;
+    background-color: #0082a1;
+}
+
+.left-block-menu-dot {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.english {
+    margin: 10px;
+    padding-left: 50px;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
