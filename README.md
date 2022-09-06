@@ -1,1 +1,1 @@
-# rsschool-cv
+https://denismore.github.io/rsschool-cv/
